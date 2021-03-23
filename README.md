@@ -1,6 +1,7 @@
 # Grayscale Image EnhanceAndDetectEdges
 
 For the given gray level input image(.PGM ASCII) the program will offer a choice of methods for
+
 Contrast Enhancement:
 1) Linear Transform
 2) Powerlaw Transform
