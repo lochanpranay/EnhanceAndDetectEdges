@@ -1,4 +1,4 @@
-# Grayscale Image EnhanceAndDetectEdges
+# Grayscale Image Enhancement And Edge Detection
 
 For the given gray level input image(.PGM ASCII) the program will offer a choice of methods for
 
